@@ -26,6 +26,10 @@ Build Prerequisites
 ISA-L requires yasm version 1.2.0 or later or nasm v2.11.01 or later.  Building
 with autotools requires autoconf/automake packages.
 
+apt-get install libtool
+apt-get install autoconf
+chmod 777 tools/*.sh
+
 Building ISA-L
 ==============
 
